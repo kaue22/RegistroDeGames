@@ -1,4 +1,4 @@
-<p>﻿# RegistroDeGames</p>
+<h1>﻿# RegistroDeGames</h1>
 
 Registros de jogos que tenho e emprestei para controle.
 
